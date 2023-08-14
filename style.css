@@ -121,6 +121,7 @@ input {
     padding: 0.9rem;
     border: none;
     border-radius: 10%;
+    color: #000;
 
     cursor: pointer;
 }
